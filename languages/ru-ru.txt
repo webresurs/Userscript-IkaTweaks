@@ -1,0 +1,159 @@
+LANG.alias('ru', 'ru');
+LANG('ru', 'Russian', {
+
+ 'str_IkaTweaks'            : 'IkaTweaks',
+ 'str_IkaTweaks_menu' 		: 'Меню IkaTweaks',
+ 'str_IkaTweaks_tabModules' : 'Модули',
+ 'str_IkaTweaks_tabAbout' 	: 'О нас и титрах',
+ 'str_IkaTweaks_version' 	: 'Версия',
+ 'str_IkaTweaks_changelog' 	: 'Список изменений',
+
+ 'str_modules' 		: 'Модули',
+ 'str_enabled' 		: 'Включено',
+ 'str_name' 		: 'Имя',
+ 'str_description' 	: 'Описание',
+ 'str_save' 		: 'Сохранить',
+ 'str_saveLanguage' : 'Сохранить язык',
+ 'str_success0' 	: 'Успех',
+ 'str_success1' 	: 'Это честь',
+ 'str_success2' 	: 'По твоей команде',
+ 'str_success3' 	: 'Аллилуйя',
+ 'str_success4' 	: 'Так и должно быть',
+
+ 'str_IkaTweaks_aboutHeader' 	: 'О нас',
+ 'str_IkaTweaks_creditsHeader' 	: 'Кредиты',
+
+ 'str_ClearStorageText' : 'Очистить местное хранилище',
+ 'str_ClearStorageInfo' : 'Здесь вы можете удалить все сохраненные данные для IkaTweaks из вашего браузера',
+
+ 'str_ToGreasyForkText'  : 'IkaTweaks @ Greasy Fork',
+ 'str_ToOpenUserJSText'  : 'IkaTweaks @ OpenUserJS',
+ 'str_ToGitHubRepoText'  : 'IkaTweaks @ GitHub',
+
+ 'str_IkaTweaks_aboutText2' 	: 'Вопросы, идеи, ошибки или жалобы? Напишите мне по адресу <span id="myEmail"></span> или посетите меня по адресу: ',
+ 'str_IkaTweaks_aboutCredits'	: 'Использованные изображения OnePiece можно найти на: <a id="creditUrl1"></a>',
+
+ 'str_versionForceCheck' 		: 'Проверить сейчас',
+ 'str_versionLastCheckResult' 	: 'Последний результат',
+ 'str_versionNewAvailable' 		: 'Доступна новая версия',
+ 'str_versionUpToDate' 			: 'Версия обновлена',
+ 'str_versionGetNewestHere' 	: 'Получить последние версии здесь',
+ 'str_versionCheckFailed' 		: 'Проверка не удалась',
+ 'str_versionAutoCheck' 		: 'Активировать автоматические проверки',
+
+ -- ГенералТвакс
+ 'str_GeneralTweaks_name' 		: 'Общие настройки',
+ 'str_GeneralTweaks_info' 		: 'Изменить правила CSS или удалить объекты и рекламу',
+ 
+ -- GeneralTweaks - исправления ошибок
+ 'str_GeneralTweaks_bugFixes' 					: 'Исправления ошибок',
+ 'str_GeneralTweaks_fixResearchWindowList' 		: 'Исправить список исследований в окне исследования',
+ 'str_GeneralTweaks_fixCitySelectItems' 		: 'Исправить выбранные пункты города',
+ 'str_GeneralTweaks_fixWindowTopPadding' 		: 'Исправить верхнюю обивку окна (выглядит приятнее)',
+ 'str_GeneralTweaks_fixScrollbars' 				: 'Исправить полосы прокрутки',
+ 'str_GeneralTweaks_fixHoverEffectSwitching' 	: 'Исправлено переключение эффектов наведения при наведении курсора мыши на загрузку страницы',
+ 
+ -- ГенералТлабы - антиАды
+ 'str_GeneralTweaks_antiAds' 					: 'Антиреклама',
+ 'str_GeneralTweaks_adsHideSpeedUpButtons' 		: 'Удалить кнопки ускорения',
+ 'str_GeneralTweaks_adsHideWindowAds' 			: 'Удалить оконную рекламу',
+ 'str_GeneralTweaks_adsHideHappyHour' 			: 'Убрать таймер счастливого часа',
+ 'str_GeneralTweaks_adsHideOfferBoxes' 			: 'Удалить коробки премиальных предложений',
+ 'str_GeneralTweaks_adsHideSlotResourceShop' 	: 'Удалить слот "Resource Shop"',
+ 'str_GeneralTweaks_adsHideSlotPremiumTrader' 	: 'Удалить слот "Премиум Трейдер"',
+ 'str_GeneralTweaks_adsHideArchiveButtons' 		: 'Удалить кнопки архива в окне сообщений',
+ 'str_GeneralTweaks_adsHideMilitaryDummies' 	: 'Убрать военные фиктивные коробки',
+ 'str_GeneralTweaks_adsHideAdvisorButtons' 		: 'Удалить премиум-кнопки советника',
+ 'str_GeneralTweaks_adsHideToolbarMMOAds' 		: 'Удалить MMO-объявления на панели инструментов',
+
+ -- GeneralTweaks - анимация
+ 'str_GeneralTweaks_animations' 			: 'Анимация',
+ 'str_GeneralTweaks_animHideWalkers' 		: 'Спрячьте всех ходоков и птиц',
+ 'str_GeneralTweaks_animHideWalkerBubbles' 	: 'Скрыть пузырьки ходунков',
+ 'str_GeneralTweaks_animHideBirdsOnly' 		: 'Прячьте только птиц',
+ 
+ -- ГенералТваки - города
+ 'str_GeneralTweaks_cities' 						: 'города',
+ 'str_GeneralTweaks_cityIgnoreCapital' 				: 'Используйте нормальный городской фон для столицы',
+ 'str_GeneralTweaks_cityUseCustomBackground' 		: 'Используйте пользовательский фон для всех ваших городов',
+ 'str_GeneralTweaks_cityUseCustomBackgroundLevel' 	: 'Уровень {уровень}',
+ 'str_GeneralTweaks_cityHidePirateFortress' 		: 'Спрятать пиратскую крепость',
+ 'str_GeneralTweaks_cityHideLockedPosition' 		: 'Скрыть заблокированное положение',
+ 'str_GeneralTweaks_cityHideDailyTasks' 			: 'Скрыть ежедневные задачи',
+ 'str_GeneralTweaks_cityHideRegistrationGifts' 		: 'Скрыть подарки на регестрацию',
+ 'str_GeneralTweaks_cityHideFlyingShop' 			: 'Скрыть летающий премиум-магазин',
+ 'str_GeneralTweaks_cityHideAmbrosiaFountain' 		: 'Скрыть фонтан амброзии',
+ 
+ -- GeneralTweaks - ресурсы
+ 'str_GeneralTweaks_resources' 			: 'Затратные ресурсы',
+ 'str_GeneralTweaks_resShowMissing' 	: 'Показать недостающие ресурсы',
+ 'str_GeneralTweaks_resShowRemaining' 	: 'Показать оставшиеся ресурсы',
+ 
+ -- ГенералТваки - интерактивно
+ 'str_GeneralTweaks_interactive' 				: 'Интерактивный',
+ 'str_GeneralTweaks_actShowMouseoverPlaques' 	: 'Показать название здания на табличке на наведении курсора мыши',
+ 'str_GeneralTweaks_actPreventPlaqueScaling' 	: 'Показывать таблички всегда в натуральную величину',
+ 'str_GeneralTweaks_actHideMouseoverTitles' 	: 'Скрыть заголовки по умолчанию при наведении указателя мыши',
+ 'str_GeneralTweaks_cityHoverToBackground' 		: 'Перемещение эффекта наведения курсора мыши в фон в городах (исправляет ошибки отображения)',
+ 'str_GeneralTweaks_islandHoverToBackground' 	: 'Переместить эффект наведения курсора мыши на фон на островах',
+ 
+ -- ГенералТваки - флоты
+ 'str_GeneralTweaks_fleets' 					: 'Движения флота',
+ 'str_GeneralTweaks_fleetHideSpeedColumn' 		: 'Скрыть столбец скорости',
+ 'str_GeneralTweaks_fleetHidePremiumFleetInfo' 	: 'Скрыть информацию о флоте премиум-класса',
+ 'str_GeneralTweaks_fleetShowCapacities' 		: 'Показать мощности',
+
+ -- СитиЛистинг
+ 'str_CityListing_name' 				: 'Расширенный список городов',
+ 'str_CityListing_info' 				: 'Изменить городской порядок, показать товары или скрыть коорды',
+ 'str_CityListing_hideCoords' 			: 'Скрыть Коорды',
+ 'str_CityListing_showTradegoods' 		: 'Выставочные товары',
+ 'str_CityListing_highlightSelected' 	: 'Выделить выбранный город',
+ 'str_CityListing_sortList' 			: 'Используйте пользовательскую сортировку',
+ 'str_CityListing_sortEverywhere' 		: 'Используйте пользовательскую сортировку везде (дворец, музей, ...)',
+
+ -- ChangeAdvisors
+ 'str_ChangeAdvisors_name' 							: 'Индивидуальные консультанты',
+ 'str_ChangeAdvisors_info' 							: 'Измените внешний вид советников отдельно',
+ 'str_ChangeAdvisors_cities' 						: 'Города',
+ 'str_ChangeAdvisors_military' 						: 'Военные',
+ 'str_ChangeAdvisors_research' 						: 'Исследования',
+ 'str_ChangeAdvisors_diplomacy' 					: 'Дипломатия',
+ 'str_ChangeAdvisors_maleMayor' 					: 'Мэр',
+ 'str_ChangeAdvisors_maleMayorPremium' 				: 'Мэр (премиум)',
+ 'str_ChangeAdvisors_maleGeneral' 					: 'Общий',
+ 'str_ChangeAdvisors_maleGeneralPremium' 			: 'Общий (премиум)',
+ 'str_ChangeAdvisors_maleScientist' 				: 'Ученый',
+ 'str_ChangeAdvisors_maleScientistPremium' 			: 'Ученый (премиум)',
+ 'str_ChangeAdvisors_maleDiplomat' 					: 'Дипломат',
+ 'str_ChangeAdvisors_maleDiplomatPremium' 			: 'Дипломат (премиум)',
+ 'str_ChangeAdvisors_onePieceLuffy'          		: 'Monkey D. Luffy (One Piece)',
+ 'str_ChangeAdvisors_onePieceZoro' 					: 'Ророноа Зоро (One Piece)',
+ 'str_ChangeAdvisors_onePieceUsopp'           		: 'Usopp (One Piece)',
+ 'str_ChangeAdvisors_onePieceNami' 					: 'Нами (One Piece)',
+ 'str_ChangeAdvisors_barbarianMayor' 				: 'Варварский мэр',
+ 'str_ChangeAdvisors_barbarianMayorPremium' 		: 'Варварский мэр (премиум)',
+ 'str_ChangeAdvisors_barbarianGeneral' 				: 'Варварский генерал',
+ 'str_ChangeAdvisors_barbarianGeneralPremium' 		: 'Варварский генерал (премиум)',
+ 'str_ChangeAdvisors_barbarianScientist' 			: 'Ученый-варвар',
+ 'str_ChangeAdvisors_barbarianScientistPremium' 	: 'Ученый-варвар (премиум)',
+ 'str_ChangeAdvisors_barbarianDiplomat' 			: 'Варварский дипломат',
+ 'str_ChangeAdvisors_barbarianDiplomatPremium' 		: 'Варварский дипломат (премиум)',
+ 'str_ChangeAdvisors_femaleMayor' 					: 'Женщина-мэр',
+ 'str_ChangeAdvisors_femaleMayorPremium' 			: 'Женщина-мэр (премиум)',
+ 'str_ChangeAdvisors_femaleGeneral' 				: 'Женщина-генерал',
+ 'str_ChangeAdvisors_femaleGeneralPremium' 			: 'Женский генерал (премиум)',
+ 'str_ChangeAdvisors_femaleScientist' 				: 'Женщина-ученый',
+ 'str_ChangeAdvisors_femaleScientistPremium' 		: 'Женщина-ученый (премиум)',
+ 'str_ChangeAdvisors_femaleDiplomat' 				: 'Женщина-дипломат',
+ 'str_ChangeAdvisors_femaleDiplomatPremium' 		: 'Женщина-дипломат (премиум)',
+
+ -- Переезды
+ 'str_MoveBuildings_name' 					: 'Переместить здания',
+ 'str_MoveBuildings_info' 					: 'Меняйте положение своих зданий',
+ 'str_MoveBuildings_SavePositions' 			: 'Сохранить позиции',
+ 'str_MoveBuildings_DragDropHint' 			: '(Меняйте позиции, перетаскивая их друг на друга)',
+ 'str_MoveBuildings_confirmSaveChanged' 	: 'Сохранить измененные позиции?',
+ 'str_MoveBuildings_restrictedPosition' 	: 'Это здание не может быть размещено там',
+
+    });
